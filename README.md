@@ -68,4 +68,4 @@ This application is provided under the MIT License. You are free to use, modify,
 
 This application is created by **Mr.code.porter** and is open-source. Contributions and feedback are welcome.
 
-Enjoy using the PS2EXE Converter!
+Enjoy using the PS2EXE Wizard!
