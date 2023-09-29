@@ -1,8 +1,8 @@
-# PS2EXE Converter
+# PS2EXE Wizard
 
 ## Introduction
 
-**PS2EXE Converter** is a user-friendly graphical application built in PowerShell for converting PowerShell scripts into executable (EXE) files using the PS2EXE module. Whether you're a PowerShell enthusiast or need to distribute your scripts as standalone executables, PS2EXE Converter simplifies the process. This tool is created by **Mr.code.porter**.
+**PS2EXE Wizard** is a user-friendly graphical application built in PowerShell for converting PowerShell scripts into executable (EXE) files using the PS2EXE module. Whether you're a PowerShell enthusiast or need to distribute your scripts as standalone executables, PS2EXE Converter simplifies the process. This tool is created by **Mr.code.porter**.
 
 ## Table of Contents
 
